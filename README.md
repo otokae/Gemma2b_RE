@@ -6,7 +6,7 @@ Purpose: Contains model fine-tuning code for the "gemma_instruct_2b_en" architec
 RE_DemoCode
 Contains 11 code cells that focus on tasks such as data processing, model training, or visualization.
 Includes 5 markdown cells, providing context, explanations, or instructions.
-Purpose: Loads the fine-tuned model and presents a Gradio chatbot demo interface.
+Purpose: Loads the fine-tuned model and presents a chatbot demo interface.
 
 
 # Real Estate Code
