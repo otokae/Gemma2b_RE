@@ -1,3 +1,13 @@
+RE_FullCode
+Contains 25 code cells that focus on tasks such as data processing, model training, or visualization.
+Includes 22 markdown cells, providing context, explanations, or instructions.
+Purpose: Contains model fine-tuning code for the "gemma_instruct_2b_en" architecture utilizing a real estate inquiry dataset.
+
+RE_DemoCode
+Contains 11 code cells that focus on tasks such as data processing, model training, or visualization.
+Includes 5 markdown cells, providing context, explanations, or instructions.
+Purpose: Loads the fine-tuned model and presents a Gradio chatbot demo interface.
+
 
 # Real Estate Code
 
